@@ -13,7 +13,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/StevenGS2907/404notfoundchallen/blob/main/css.txt">
+    <a href="https://github.com/StevenGS2907/MyteamPage/blob/main/css.txt">
       Solution
     </a>
     <span> | </span>
@@ -28,7 +28,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/StevenGS2907/404notfoundchallen/blob/main/Capture.PNG)
+![screenshot](https://github.com/StevenGS2907/MyteamPage/blob/main/photoP.PNG)
 
 
 ## Contact
